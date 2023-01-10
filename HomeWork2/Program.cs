@@ -43,37 +43,3 @@ SecondPoint = Coordinates(SecondPoint);
 
 distance(FirstPoint, SecondPoint, len);
 
-
-
-
-// void distance(Double x1, Double y1,
-//                      Double z1, Double x2,
-//                      Double y2, Double z2)
-// {
-//     double temp = Math.Sqrt((Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2)));
-//     Console.WriteLine("Расстояние между точками 1 и 2 = " + temp);
-//     return;
-
-// }
-
-// Console.WriteLine("Введите координаты х1=");
-// Double x1 = Double.Parse(Console.ReadLine());
-
-// Console.WriteLine("Введите координаты у1=");
-// Double y1 = Double.Parse(Console.ReadLine());
-
-// Console.WriteLine("Введите координаты z1=");
-// Double z1 = Double.Parse(Console.ReadLine());
-
-// Console.WriteLine("Введите координаты х2=");
-// Double x2 = Double.Parse(Console.ReadLine());
-
-// Console.WriteLine("Введите координаты у2=");
-// Double y2 = Double.Parse(Console.ReadLine());
-
-// Console.WriteLine("Введите координаты z2=");
-// Double z2 = Double.Parse(Console.ReadLine());
-
-// distance(x1, y1, z1, x2, y2, z2);
-
-
